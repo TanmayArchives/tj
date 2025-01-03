@@ -22,7 +22,7 @@ export function About() {
               Introduction
             </h3>
             <p className="text-gray-700 text-sm sm:text-base">
-              A humble farmer's son with a passion for perfection, Tushar
+              A humble farmer&apos;s son with a passion for perfection, Tushar
               Baliram Jadhav has established himself as a versatile artist for
               over a decade.
             </p>
@@ -66,8 +66,8 @@ export function About() {
 
       {/* Quote */}
       <div className="mt-8 sm:mt-12 text-center italic text-gray-600 max-w-3xl mx-auto px-4 text-sm sm:text-base">
-        "Art is my meditation, my prayer, and my way of spreading joy. Through
-        my paintings, I aim to touch hearts and inspire souls."
+        &quot;Art is my meditation, my prayer, and my way of spreading joy.
+        Through my paintings, I aim to touch hearts and inspire souls.&quot;
       </div>
     </section>
   );
